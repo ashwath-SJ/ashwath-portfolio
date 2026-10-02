@@ -1,5 +1,5 @@
 // Typing effect
-const text = "BCA Student | UI/UX Designer | Web Developer";
+const text = " UI/UX Designer | Web Developer";
 const typingEl = document.getElementById("typing");
 let i = 0;
 
